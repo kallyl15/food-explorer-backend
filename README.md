@@ -1,27 +1,32 @@
 ![image](https://github.com/kallyl15/food-explorer-backend/assets/48924767/0eba515f-b07f-4612-a12c-45b3ecd42f59)
 
-Bem-vindo ao Food Explorer, a plataforma definitiva que o levará a uma jornada cósmica através de pratos deliciosos! Nós o convidamos a explorar o universo de sabores que nosso planeta tem a oferecer, enquanto você navega com a facilidade de um foguete por nossa plataforma.
-
+Bem-vindo ao motor de propulsão do Food Explorer! Este é o núcleo que alimenta nossa jornada cósmica através dos pratos deliciosos no universo de sabores. Prepare-se para decolar no espaço gastronômico!
 
 ## 🌌 Sobre
 
-O Food Explorer é um mercado virtual onde você pode comprar e vender os pratos mais incríveis do planeta. Nossa missão é conectar amantes da gastronomia em um único espaço - um espaço cósmico!
+O Food Explorer Backend é o coração da nossa plataforma, garantindo que todos os processos ocorram de forma suave e eficaz, enquanto os exploradores desfrutam de uma experiência culinária estelar.
 
-## 🛸 Tecnologias utilizadas
+## 🌟 Tecnologias utilizadas
 
-Nossa plataforma frontend foi construída com as mais recentes e eficientes tecnologias, garantindo uma experiência suave e estelar para todos os nossos exploradores.
+Nossa plataforma backend foi construída usando as seguintes tecnologias, garantindo eficiência e segurança em nossa missão espacial:
 
-- **React**: Para componentes dinâmicos e interativos.
-- **Vite**: Ferramenta de construção super rápida.
-- **Axios**: Facilitando a comunicação com nosso backend.
-- **React-Router-Dom**: Navegação espacial sem recarregar a página.
-- **Styled-Components**: Estilos com propulsores ativados.
-- **Swiper**: Para carrosséis espaciais suaves.
-- **React-Icons**: Ícones brilhantes para uma interface estelar.
+- **Node**: Motor de nossa nave.
+- **bcryptjs**: Criptografia estelar para suas informações.
+- **cors**: Garantindo comunicações interplanetárias seguras.
+- **dotenv**: Protegendo nossos segredos galácticos.
+- **express**: Nossas rotas espaciais.
+- **express-async-errors**: Capturando asteroides (erros) inesperados.
+- **jest**: Testes para garantir que tudo funcione perfeitamente.
+- **jsonwebtoken**: Passaportes intergalácticos para nossos exploradores.
+- **knex**: Construindo as bases de nossas estações espaciais (databases).
+- **multer**: Gerenciando os recursos visuais da nossa galáxia.
+- **nodemon**: Vigilância constante em nossa missão.
+- **pm2**: Nosso piloto automático.
+- **sqlite & sqlite3**: O universo onde armazenamos nossas estrelas (dados).
 
-## 🌠 Começando
+## 🌠 Instruções de Lançamento
 
-Para embarcar nesta jornada culinária espacial, siga os seguintes passos:
+Para iniciar sua própria jornada com o Food Explorer Backend, siga os passos:
 
 1. Clone o repositório.
    
@@ -36,7 +41,7 @@ Para embarcar nesta jornada culinária espacial, siga os seguintes passos:
    ```bash
    npm run dev
 
-Agora, seu foguete está pronto para decolar! Acesse http://localhost:3000 e explore o universo de sabores!
+Agora, o motor de sua nave está pronto! O backend estará rodando em http://localhost:3333.
 
 ## 🪐 Contribuições
 Contribuições são mais do que bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
